@@ -1,9 +1,6 @@
 
 # Hello, my name is Vadym!
 
-### 👨‍💻 About me:
-
-I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT started with Beetroot Academy, where I took an intensive course. After the intensive, I began to consolidate the technologies I learned and expand my knowledge of writing code. Having discovered web development, I get high and enjoy every time I write code or finish particular project.
 
 <p align="center">
  <img width="800" src="assets/github-snake.svg" alt="snake"/>
