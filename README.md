@@ -12,9 +12,7 @@
 
 - 🏀 I like to play basketball
 
-- 🧠  I have a second brain in the Absidian program
-
-- 🌱 I'm currently learning Angular  
+- 🧠  I have a second brain in the Absidian program  
   
 - ⚡ Fun fact: I use tabs over spaces  
 
